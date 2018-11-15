@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="team_1">Team 1</string>
+    <string name="team_1_indicator">X</string>
+
+    <string name="team_2">Team 2</string>
+    <string name="team_2_indicator">Y</string>
+
+    <string name="open_box">Pick Me!</string>
+    <string name="reset">Run Away! (Reset)</string>
+</resources>
