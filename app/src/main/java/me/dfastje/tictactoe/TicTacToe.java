@@ -1,4 +1,4 @@
-package com.example.dfastje.tictactoe;
+package me.dfastje.tictactoe;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -6,7 +6,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 
-import com.example.dfastje.tictactoe.utils.Turn;
+import me.dfastje.tictactoe.utils.Turn;
+
 
 public class TicTacToe extends AppCompatActivity {
 

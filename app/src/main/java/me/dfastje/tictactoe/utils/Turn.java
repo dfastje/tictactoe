@@ -1,10 +1,4 @@
-package com.example.dfastje.tictactoe.utils;
-
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.app.AppCompatDelegate;
-import android.widget.CheckBox;
-
-import com.example.dfastje.tictactoe.R;
+package me.dfastje.tictactoe.utils;
 
 public class Turn {
 
