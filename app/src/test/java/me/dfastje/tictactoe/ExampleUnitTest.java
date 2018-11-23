@@ -1,4 +1,4 @@
-package com.example.dfastje.tictactoe;
+package me.dfastje.tictactoe;
 
 import org.junit.Test;
 

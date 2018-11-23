@@ -1,4 +1,4 @@
-package com.example.dfastje.tictactoe.utils;
+package me.dfastje.tictactoe.utils;
 
 import org.junit.Before;
 import org.junit.Test;
